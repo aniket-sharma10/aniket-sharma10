@@ -1,5 +1,4 @@
 ### Hey!! 
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=aniket-sharma10" alt = "shivam-bhadani" /> </p>
 
 - 👋 I’m Aniket Sharma.
 - Love exploring new technologies.

@@ -1,8 +1,6 @@
 ### Hey!! 
 
 - 👋 I’m Aniket Sharma.
-- Love exploring new technologies.
-- Always looking to learn new skills.
 - You can reach me at - sharmaaniket094@gmail.com
 
 ### Socials
